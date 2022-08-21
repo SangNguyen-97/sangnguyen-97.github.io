@@ -1,2 +1,2 @@
-# sangnguyen-97.github.io
-This is my portfolio website. 
+# Sang Nguyen's Portfolio Website
+This is my newly created portfolio website.
